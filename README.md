@@ -21,5 +21,3 @@ Por eso, destacamos cualidades de esta tecnología (blockchain) que poseen varia
 - License MIT, licencia libre para usar el código para futuras votaciones
 - Compiler EVM 0.8.0, versión del compilador de la EVM de la red de ethereum
 - Metamask extensión para navegador Versión 10.18.3, pruebas y deploy del contrato
-
-### Manual de Usuario
