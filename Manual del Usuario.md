@@ -1,7 +1,8 @@
  ## PASOS PARA INICIO Y “DESPLIEGUE”
 
 Paso 1. Tener el código fuente correspondiente del proyecto en el medio que se te ha proporcionado o que puedes obtenerlo del siguiente enlace del repositorio correspondiente en github: https://github.com/tatumel/Voting-App-Clear-DAO
-[![Paso 1](<img "https://i.postimg.cc/0QLJGxvZ/1.png")]
+
+[![Paso 1](https://i.postimg.cc/0QLJGxvZ/1.png)]
 
 Paso 2. En metamask recomendamos crear un nuevo espacio de trabajo únicamente para abrir el Smart Contract, y posteriormente brir el archivo correspondiente desde la interfaz de REMIX, recordamos que el nombre del archivo es votating-app.sol
 ! (https://i.postimg.cc/prfyDFqX/2.png)
