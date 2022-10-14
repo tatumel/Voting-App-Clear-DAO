@@ -35,49 +35,49 @@ Paso 7. Siguiendo los pasos anteriores tu Smart Contract debe verse desplegado a
 ### USO DEL SMART CONTRACT
 
 1. Sólo el propietario puede asignar candidatos o candidatas a las votaciones:
-<br/>
+
 ![Paso 8](https://i.postimg.cc/dVqZj5MM/1-1.png)
 
 
 2. Sólo el propietario puede iniciar la Votación o terminarla:
-<br/>
+
 ![Paso 9](https://i.postimg.cc/WbmJZQH6/1-2.png)
 
 
 3. Se tiene la opción de cambiar de “Propietario” del contrato:
-<br/>
+
 ![Paso 10](https://i.postimg.cc/ncfDCH0h/1-3.png)
 
 
 4. Solamente el “Propietario” de contrato puede dar permiso a las votaciones:
-<br/>
+
 ![Paso 11](https://i.postimg.cc/YS04Jjqb/1-4.png)
 
 
 5. Una ve desplegado el contrato inteligente, puedes saber en todo momento quién es el Propietario (1) , si se tiene permiso de Votar (2), el estado de la votación (3) y el total de votos (4).
-<br/>
+
 ![Paso 12](https://i.postimg.cc/XNC5jZKP/1-5.png)
 
 
 6. Cuando el propietario del contrato ha dado el permiso a la dirección correspondiente, puede elegir a alguna de las candidatas o candidatos disponibles:
-<br/>
+
 ![Paso 13](https://i.postimg.cc/QMzBssFs/1-6.png)
 
 
 7. Al ejecutar la transacción del voto se sumará en éste caso a la candidata elegida:
-<br/>
 ![Paso 14](https://i.postimg.cc/x1tJxLYX/1-7.png)
 
 
 8. Si consultamos el total de Votos:
-<br/>
+
 ![Paso 15](https://i.postimg.cc/QC1K0PxD/1-8.png)
 
 
 9. Al ejecutar un segundo voto podemos obtener el total de votos nuevamente y confirmar quien es el ganador o ganadora de la votación
-<br/>
+
 ![Paso 16](https://i.postimg.cc/Hx7rkKMM/1-9.png)
 
 
 10. Si los votos se han completado el propietario puede dar finalizada la votación y ya no se podrá agregar ningún voto adicional:
+
 ![Paso 17](https://i.postimg.cc/zvZVbjwc/2-1.png)
